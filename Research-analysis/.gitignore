@@ -1,0 +1,10 @@
+# 動画ファイル
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+# ログファイル
+*.log
+
+Research-Project/Bert-LLM-Sentence/models/
