@@ -12,7 +12,7 @@ the example of this dataset is as follows<p>
 I've compared the accuracy of prediction Bert with LLM.
 
 ### Results:
-- Accuracy
+- Accuracy<p>
 Bert: 0.673 / LLM (Chatgpt-4o): 0.670
 - Learning-Curve (Bert)
 <img width="536" alt="Accuracy" src="https://github.com/user-attachments/assets/522c62a0-424b-4a11-91c0-b2a634c35956" />
